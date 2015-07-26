@@ -13,14 +13,11 @@
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
 			<version>4.8</version>
-			<scope>test</scope>
 		</dependency>
-		<!-- Selenium Test Tool -->
 		<dependency>
 			<groupId>org.seleniumhq.selenium</groupId>
 			<artifactId>selenium-java</artifactId>
 			<version>2.46.0</version>
-			<scope>test</scope>
 		</dependency>
 	</dependencies>
 	<build>
